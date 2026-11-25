@@ -1,0 +1,55 @@
+Extracted cnn_clean_17 (45000, 128)
+Extracted ae_16 (45000, 16)
+Extracted ae_64 (45000, 64)
+Extracted ae_256 (45000, 256)
+Extracted dae (45000, 256)
+Probe {'representation': 'ae_16', 'C': 0.01, 'train_accuracy': 0.3258666666666667, 'val_accuracy': 0.3242, 'iterations': 22, 'seconds_this_invocation': 0.22945002900087275}
+Probe {'representation': 'ae_16', 'C': 0.1, 'train_accuracy': 0.3258666666666667, 'val_accuracy': 0.3246, 'iterations': 23, 'seconds_this_invocation': 0.22290087600413244}
+Probe {'representation': 'ae_16', 'C': 1, 'train_accuracy': 0.3257111111111111, 'val_accuracy': 0.3248, 'iterations': 23, 'seconds_this_invocation': 0.22198525800195057}
+Probe {'representation': 'ae_16', 'C': 10, 'train_accuracy': 0.32566666666666666, 'val_accuracy': 0.3246, 'iterations': 23, 'seconds_this_invocation': 0.21948612900450826}
+Probe {'representation': 'ae_64', 'C': 0.01, 'train_accuracy': 0.37275555555555556, 'val_accuracy': 0.3668, 'iterations': 80, 'seconds_this_invocation': 1.062162358997739}
+Probe {'representation': 'ae_64', 'C': 0.1, 'train_accuracy': 0.37333333333333335, 'val_accuracy': 0.3664, 'iterations': 151, 'seconds_this_invocation': 1.9511350139946444}
+Probe {'representation': 'ae_64', 'C': 1, 'train_accuracy': 0.3738666666666667, 'val_accuracy': 0.368, 'iterations': 235, 'seconds_this_invocation': 3.0425480629928643}
+Probe {'representation': 'ae_64', 'C': 10, 'train_accuracy': 0.37391111111111114, 'val_accuracy': 0.3662, 'iterations': 233, 'seconds_this_invocation': 2.9954235949990107}
+Probe {'representation': 'ae_256', 'C': 0.01, 'train_accuracy': 0.4106, 'val_accuracy': 0.407, 'iterations': 142, 'seconds_this_invocation': 3.8672053799964488}
+Probe {'representation': 'ae_256', 'C': 0.1, 'train_accuracy': 0.4225111111111111, 'val_accuracy': 0.4176, 'iterations': 368, 'seconds_this_invocation': 10.356124776997603}
+Probe {'representation': 'ae_256', 'C': 1, 'train_accuracy': 0.4368444444444444, 'val_accuracy': 0.4324, 'iterations': 917, 'seconds_this_invocation': 34.39002299099229}
+Probe {'representation': 'ae_256', 'C': 10, 'train_accuracy': 0.4412888888888889, 'val_accuracy': 0.434, 'iterations': 1728, 'seconds_this_invocation': 59.31721005500003}
+Probe {'representation': 'dae', 'C': 0.01, 'train_accuracy': 0.3985111111111111, 'val_accuracy': 0.3926, 'iterations': 138, 'seconds_this_invocation': 4.69672286399873}
+Probe {'representation': 'dae', 'C': 0.1, 'train_accuracy': 0.4154888888888889, 'val_accuracy': 0.4084, 'iterations': 377, 'seconds_this_invocation': 12.981788114004303}
+Probe {'representation': 'dae', 'C': 1, 'train_accuracy': 0.4338666666666667, 'val_accuracy': 0.4198, 'iterations': 908, 'seconds_this_invocation': 31.218907518006745}
+Probe {'representation': 'dae', 'C': 10, 'train_accuracy': 0.4421777777777778, 'val_accuracy': 0.415, 'iterations': 1626, 'seconds_this_invocation': 58.0915377150086}
+SVM {'kernel': 'linear', 'C': 0.001, 'train_accuracy': 0.8378333333333333, 'val_accuracy': 0.739, 'sv_fraction': 0.7296666666666667, 'support_vectors': 4378, 'gamma': 0.014615793229588538, 'seconds': 4.304671331992722, 'fit_status': 0}
+SVM {'kernel': 'rbf', 'C': 0.001, 'train_accuracy': 0.776, 'val_accuracy': 0.6998, 'sv_fraction': 1.0, 'support_vectors': 6000, 'gamma': 0.014615793229588538, 'seconds': 9.723062459990615, 'fit_status': 0}
+SVM {'kernel': 'poly', 'C': 0.001, 'train_accuracy': 0.6861666666666667, 'val_accuracy': 0.6402, 'sv_fraction': 0.9541666666666667, 'support_vectors': 5725, 'gamma': 0.014615793229588538, 'seconds': 7.5084629070042865, 'fit_status': 0}
+SVM {'kernel': 'linear', 'C': 0.01, 'train_accuracy': 0.8673333333333333, 'val_accuracy': 0.7504, 'sv_fraction': 0.5021666666666667, 'support_vectors': 3013, 'gamma': 0.014615793229588538, 'seconds': 1.4231278910010587, 'fit_status': 0}
+SVM {'kernel': 'rbf', 'C': 0.01, 'train_accuracy': 0.7825, 'val_accuracy': 0.7066, 'sv_fraction': 0.9905, 'support_vectors': 5943, 'gamma': 0.014615793229588538, 'seconds': 9.12713844999962, 'fit_status': 0}
+SVM {'kernel': 'poly', 'C': 0.01, 'train_accuracy': 0.831, 'val_accuracy': 0.7314, 'sv_fraction': 0.7201666666666666, 'support_vectors': 4321, 'gamma': 0.014615793229588538, 'seconds': 4.382766417998937, 'fit_status': 0}
+SVM {'kernel': 'linear', 'C': 0.1, 'train_accuracy': 0.8923333333333333, 'val_accuracy': 0.7396, 'sv_fraction': 0.38066666666666665, 'support_vectors': 2284, 'gamma': 0.014615793229588538, 'seconds': 1.1829029860091396, 'fit_status': 0}
+SVM {'kernel': 'rbf', 'C': 0.1, 'train_accuracy': 0.845, 'val_accuracy': 0.7374, 'sv_fraction': 0.7345, 'support_vectors': 4407, 'gamma': 0.014615793229588538, 'seconds': 5.77269603399327, 'fit_status': 0}
+SVM {'kernel': 'poly', 'C': 0.1, 'train_accuracy': 0.8833333333333333, 'val_accuracy': 0.7546, 'sv_fraction': 0.514, 'support_vectors': 3084, 'gamma': 0.014615793229588538, 'seconds': 1.6598095249937614, 'fit_status': 0}
+SVM {'kernel': 'linear', 'C': 1, 'train_accuracy': 0.915, 'val_accuracy': 0.7274, 'sv_fraction': 0.33866666666666667, 'support_vectors': 2032, 'gamma': 0.014615793229588538, 'seconds': 1.4166144189948682, 'fit_status': 0}
+SVM {'kernel': 'rbf', 'C': 1, 'train_accuracy': 0.9055, 'val_accuracy': 0.7528, 'sv_fraction': 0.5358333333333334, 'support_vectors': 3215, 'gamma': 0.014615793229588538, 'seconds': 3.3902086190064438, 'fit_status': 0}
+SVM {'kernel': 'poly', 'C': 1, 'train_accuracy': 0.9496666666666667, 'val_accuracy': 0.7368, 'sv_fraction': 0.43916666666666665, 'support_vectors': 2635, 'gamma': 0.014615793229588538, 'seconds': 1.4705129149951972, 'fit_status': 0}
+SVM {'kernel': 'linear', 'C': 10, 'train_accuracy': 0.9243333333333333, 'val_accuracy': 0.7148, 'sv_fraction': 0.32566666666666666, 'support_vectors': 1954, 'gamma': 0.014615793229588538, 'seconds': 5.3207774740003515, 'fit_status': 0}
+SVM {'kernel': 'rbf', 'C': 10, 'train_accuracy': 0.9893333333333333, 'val_accuracy': 0.7318, 'sv_fraction': 0.5231666666666667, 'support_vectors': 3139, 'gamma': 0.014615793229588538, 'seconds': 3.5651643680030247, 'fit_status': 0}
+SVM {'kernel': 'poly', 'C': 10, 'train_accuracy': 0.9993333333333333, 'val_accuracy': 0.717, 'sv_fraction': 0.4538333333333333, 'support_vectors': 2723, 'gamma': 0.014615793229588538, 'seconds': 2.1357956870051567, 'fit_status': 0}
+SVM {'kernel': 'linear', 'C': 100, 'train_accuracy': 0.9275, 'val_accuracy': 0.7124, 'sv_fraction': 0.3255, 'support_vectors': 1953, 'gamma': 0.014615793229588538, 'seconds': 33.071521546997246, 'fit_status': 0}
+SVM {'kernel': 'rbf', 'C': 100, 'train_accuracy': 1.0, 'val_accuracy': 0.7206, 'sv_fraction': 0.5385, 'support_vectors': 3231, 'gamma': 0.014615793229588538, 'seconds': 3.3338413259916706, 'fit_status': 0}
+SVM {'kernel': 'poly', 'C': 100, 'train_accuracy': 1.0, 'val_accuracy': 0.7172, 'sv_fraction': 0.4538333333333333, 'support_vectors': 2723, 'gamma': 0.014615793229588538, 'seconds': 1.5560100059956312, 'fit_status': 0}
+Cluster {'k': 8, 'seed': 83, 'val_silhouette': 0.1017775908112526, 'train_inertia': 1894237.5, 'iterations': 51, 'seconds': 1.9323494359996403}
+Cluster {'k': 8, 'seed': 97, 'val_silhouette': 0.1018873006105423, 'train_inertia': 1894236.875, 'iterations': 27, 'seconds': 1.8804004159901524}
+Cluster {'k': 8, 'seed': 109, 'val_silhouette': 0.10139213502407074, 'train_inertia': 1894239.5, 'iterations': 32, 'seconds': 1.9849878560053185}
+Cluster {'k': 10, 'seed': 83, 'val_silhouette': 0.09616562724113464, 'train_inertia': 1814753.375, 'iterations': 77, 'seconds': 3.391102598005091}
+Cluster {'k': 10, 'seed': 97, 'val_silhouette': 0.09607133269309998, 'train_inertia': 1814746.625, 'iterations': 48, 'seconds': 3.2916516959958244}
+Cluster {'k': 10, 'seed': 109, 'val_silhouette': 0.09600462019443512, 'train_inertia': 1814756.25, 'iterations': 116, 'seconds': 3.6224291539983824}
+Cluster {'k': 12, 'seed': 83, 'val_silhouette': 0.09293898940086365, 'train_inertia': 1756567.0, 'iterations': 65, 'seconds': 3.454120883005089}
+Cluster {'k': 12, 'seed': 97, 'val_silhouette': 0.09271278977394104, 'train_inertia': 1756567.875, 'iterations': 49, 'seconds': 3.6321069760015234}
+Cluster {'k': 12, 'seed': 109, 'val_silhouette': 0.09270831942558289, 'train_inertia': 1756569.75, 'iterations': 59, 'seconds': 3.6175806960090995}
+Cluster {'k': 15, 'seed': 83, 'val_silhouette': 0.07598765194416046, 'train_inertia': 1698653.875, 'iterations': 108, 'seconds': 4.738149030003115}
+Cluster {'k': 15, 'seed': 97, 'val_silhouette': 0.07619798183441162, 'train_inertia': 1698687.0, 'iterations': 117, 'seconds': 5.027249570994172}
+Cluster {'k': 15, 'seed': 109, 'val_silhouette': 0.07625339180231094, 'train_inertia': 1698684.375, 'iterations': 59, 'seconds': 5.232104626004002}
+Cluster {'k': 20, 'seed': 83, 'val_silhouette': 0.0666285827755928, 'train_inertia': 1623806.25, 'iterations': 114, 'seconds': 5.9931376009917585}
+Cluster {'k': 20, 'seed': 97, 'val_silhouette': 0.06478724628686905, 'train_inertia': 1624324.75, 'iterations': 84, 'seconds': 5.743442160994164}
+Cluster {'k': 20, 'seed': 109, 'val_silhouette': 0.06714604794979095, 'train_inertia': 1623934.0, 'iterations': 148, 'seconds': 6.249312182990252}
+Frozen 35 artifacts before any test evaluation.

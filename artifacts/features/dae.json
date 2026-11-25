@@ -1,0 +1,10 @@
+{
+  "checkpoint": "artifacts/runs/dae/best.pt",
+  "checkpoint_sha256": "4dd05fb83d933922139562dc5452ade27549a03a5a49d70e0bc8d3b53e79634c",
+  "split_sha256": "8e24849c8a75383d23c650744de88916891d4e640452e3b5b9e825fed0b43dd6",
+  "dimension": 256,
+  "extraction": "clean [0,1] AE linear bottleneck",
+  "encoder_frozen": true,
+  "feature_sha256": "906587ab5e863e2ed70db57e5353c86e83cd63dec172373676b5c19f858a703e",
+  "first_question": "Q3(b)"
+}

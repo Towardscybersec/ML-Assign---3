@@ -1,0 +1,10 @@
+{
+  "checkpoint": "artifacts/runs/ae_256/best.pt",
+  "checkpoint_sha256": "d6af9412238ee321c725bef9303c903704c5aa56448a4f29be9dbf9c5213e0cc",
+  "split_sha256": "8e24849c8a75383d23c650744de88916891d4e640452e3b5b9e825fed0b43dd6",
+  "dimension": 256,
+  "extraction": "clean [0,1] AE linear bottleneck",
+  "encoder_frozen": true,
+  "feature_sha256": "c4e5ef92e90d2b1dda4c288fe41c81300e9fa806421ee4d1249a50614f55bc83",
+  "first_question": "Q3(a)"
+}

@@ -1,0 +1,516 @@
+mlp_clean_17 1/24 train=1.49717 val=1.56243 acc=0.4550 seconds=0.6
+mlp_clean_17 2/24 train=1.37030 val=1.49450 acc=0.4804 seconds=1.1
+mlp_clean_17 3/24 train=1.28909 val=1.47662 acc=0.4802 seconds=1.7
+mlp_clean_17 4/24 train=1.20893 val=1.44966 acc=0.5042 seconds=2.2
+mlp_clean_17 5/24 train=1.15473 val=1.43100 acc=0.5086 seconds=2.7
+mlp_clean_17 6/24 train=1.08820 val=1.43134 acc=0.5076 seconds=3.2
+mlp_clean_17 7/24 train=1.04397 val=1.44568 acc=0.5102 seconds=3.6
+mlp_clean_17 8/24 train=0.97221 val=1.41622 acc=0.5234 seconds=4.1
+mlp_clean_17 9/24 train=0.93685 val=1.44449 acc=0.5164 seconds=4.6
+mlp_clean_17 10/24 train=0.90366 val=1.46436 acc=0.5146 seconds=5.1
+mlp_clean_17 11/24 train=0.86515 val=1.46861 acc=0.5168 seconds=5.6
+mlp_clean_17 12/24 train=0.82451 val=1.48668 acc=0.5164 seconds=6.1
+mlp_clean_17 13/24 train=0.79025 val=1.50804 acc=0.5128 seconds=6.6
+mlp_clean_17 14/24 train=0.74885 val=1.50183 acc=0.5230 seconds=7.1
+mlp_clean_17 15/24 train=0.73508 val=1.55048 acc=0.5134 seconds=7.6
+mlp_clean_17 16/24 train=0.69434 val=1.54792 acc=0.5214 seconds=8.0
+mlp_clean_17 17/24 train=0.67992 val=1.56857 acc=0.5240 seconds=8.5
+mlp_clean_17 18/24 train=0.65727 val=1.58033 acc=0.5170 seconds=9.0
+mlp_clean_17 19/24 train=0.64195 val=1.58858 acc=0.5230 seconds=9.5
+mlp_clean_17 20/24 train=0.63094 val=1.59070 acc=0.5200 seconds=10.0
+mlp_clean_17 21/24 train=0.62177 val=1.59438 acc=0.5224 seconds=10.5
+mlp_clean_17 22/24 train=0.61712 val=1.59968 acc=0.5244 seconds=11.0
+mlp_clean_17 23/24 train=0.61467 val=1.60155 acc=0.5242 seconds=11.5
+mlp_clean_17 24/24 train=0.61376 val=1.60061 acc=0.5252 seconds=12.0
+cnn_clean_17 1/24 train=1.25594 val=1.28741 acc=0.5454 seconds=3.6
+cnn_clean_17 2/24 train=1.02247 val=1.08517 acc=0.6214 seconds=7.2
+cnn_clean_17 3/24 train=0.89582 val=0.98066 acc=0.6594 seconds=10.7
+cnn_clean_17 4/24 train=0.74978 val=0.87323 acc=0.6934 seconds=14.2
+cnn_clean_17 5/24 train=0.67561 val=0.84230 acc=0.7086 seconds=17.8
+cnn_clean_17 6/24 train=0.60866 val=0.81022 acc=0.7258 seconds=21.3
+cnn_clean_17 7/24 train=0.54373 val=0.79641 acc=0.7346 seconds=24.9
+cnn_clean_17 8/24 train=0.46647 val=0.75242 acc=0.7496 seconds=28.4
+cnn_clean_17 9/24 train=0.42211 val=0.77376 acc=0.7446 seconds=31.9
+cnn_clean_17 10/24 train=0.39483 val=0.79307 acc=0.7398 seconds=35.5
+cnn_clean_17 11/24 train=0.34388 val=0.79256 acc=0.7432 seconds=39.0
+cnn_clean_17 12/24 train=0.28218 val=0.81204 acc=0.7442 seconds=42.6
+cnn_clean_17 13/24 train=0.25775 val=0.85831 acc=0.7424 seconds=46.1
+cnn_clean_17 14/24 train=0.21742 val=0.87665 acc=0.7442 seconds=49.7
+cnn_clean_17 15/24 train=0.17466 val=0.87689 acc=0.7494 seconds=53.2
+cnn_clean_17 16/24 train=0.15468 val=0.91446 acc=0.7470 seconds=56.8
+cnn_clean_17 17/24 train=0.13933 val=0.96652 acc=0.7466 seconds=60.3
+cnn_clean_17 18/24 train=0.12126 val=0.96983 acc=0.7472 seconds=63.9
+cnn_clean_17 19/24 train=0.10904 val=1.00504 acc=0.7442 seconds=67.4
+cnn_clean_17 20/24 train=0.09919 val=1.02718 acc=0.7440 seconds=71.0
+cnn_clean_17 21/24 train=0.09223 val=1.03097 acc=0.7464 seconds=74.5
+cnn_clean_17 22/24 train=0.08886 val=1.04106 acc=0.7462 seconds=78.0
+cnn_clean_17 23/24 train=0.08727 val=1.04351 acc=0.7458 seconds=81.5
+cnn_clean_17 24/24 train=0.08639 val=1.04448 acc=0.7460 seconds=85.1
+mlp_permuted_17 1/24 train=1.49717 val=1.56243 acc=0.4550 seconds=0.5
+mlp_permuted_17 2/24 train=1.37030 val=1.49450 acc=0.4804 seconds=1.1
+mlp_permuted_17 3/24 train=1.29222 val=1.48027 acc=0.4888 seconds=1.6
+mlp_permuted_17 4/24 train=1.20646 val=1.45047 acc=0.4998 seconds=2.2
+mlp_permuted_17 5/24 train=1.14656 val=1.42012 acc=0.5084 seconds=2.8
+mlp_permuted_17 6/24 train=1.08732 val=1.43277 acc=0.5034 seconds=3.3
+mlp_permuted_17 7/24 train=1.03733 val=1.43743 acc=0.5166 seconds=3.8
+mlp_permuted_17 8/24 train=0.97284 val=1.42084 acc=0.5254 seconds=4.4
+mlp_permuted_17 9/24 train=0.94464 val=1.45568 acc=0.5130 seconds=4.9
+mlp_permuted_17 10/24 train=0.90195 val=1.45828 acc=0.5154 seconds=5.5
+mlp_permuted_17 11/24 train=0.86354 val=1.46953 acc=0.5180 seconds=6.0
+mlp_permuted_17 12/24 train=0.83048 val=1.49836 acc=0.5142 seconds=6.6
+mlp_permuted_17 13/24 train=0.78716 val=1.50365 acc=0.5254 seconds=7.1
+mlp_permuted_17 14/24 train=0.74916 val=1.50996 acc=0.5214 seconds=7.6
+mlp_permuted_17 15/24 train=0.73347 val=1.54984 acc=0.5162 seconds=8.2
+mlp_permuted_17 16/24 train=0.69534 val=1.54517 acc=0.5176 seconds=8.7
+mlp_permuted_17 17/24 train=0.67785 val=1.56391 acc=0.5236 seconds=9.3
+mlp_permuted_17 18/24 train=0.65977 val=1.58389 acc=0.5212 seconds=9.8
+mlp_permuted_17 19/24 train=0.64470 val=1.58824 acc=0.5248 seconds=10.3
+mlp_permuted_17 20/24 train=0.63335 val=1.59076 acc=0.5254 seconds=10.9
+mlp_permuted_17 21/24 train=0.62257 val=1.59505 acc=0.5234 seconds=11.4
+mlp_permuted_17 22/24 train=0.61819 val=1.59934 acc=0.5252 seconds=11.9
+mlp_permuted_17 23/24 train=0.61595 val=1.60177 acc=0.5220 seconds=12.5
+mlp_permuted_17 24/24 train=0.61496 val=1.60105 acc=0.5244 seconds=13.0
+cnn_permuted_17 1/24 train=1.81113 val=1.83123 acc=0.3330 seconds=3.6
+cnn_permuted_17 2/24 train=1.60577 val=1.63220 acc=0.4144 seconds=7.1
+cnn_permuted_17 3/24 train=1.48237 val=1.54797 acc=0.4426 seconds=10.7
+cnn_permuted_17 4/24 train=1.38015 val=1.48346 acc=0.4600 seconds=14.3
+cnn_permuted_17 5/24 train=1.30973 val=1.46364 acc=0.4816 seconds=17.9
+cnn_permuted_17 6/24 train=1.21394 val=1.40917 acc=0.5012 seconds=21.5
+cnn_permuted_17 7/24 train=1.21722 val=1.47141 acc=0.4862 seconds=25.0
+cnn_permuted_17 8/24 train=1.07642 val=1.42279 acc=0.5114 seconds=28.6
+cnn_permuted_17 9/24 train=1.02227 val=1.44039 acc=0.5018 seconds=32.2
+cnn_permuted_17 10/24 train=0.94447 val=1.41808 acc=0.5130 seconds=35.7
+cnn_permuted_17 11/24 train=0.88095 val=1.46535 acc=0.5092 seconds=39.3
+cnn_permuted_17 12/24 train=0.82836 val=1.47506 acc=0.5026 seconds=42.9
+cnn_permuted_17 13/24 train=0.74865 val=1.51703 acc=0.5144 seconds=46.5
+cnn_permuted_17 14/24 train=0.69775 val=1.57256 acc=0.5136 seconds=50.0
+cnn_permuted_17 15/24 train=0.64068 val=1.62837 acc=0.5080 seconds=53.6
+cnn_permuted_17 16/24 train=0.58189 val=1.63844 acc=0.5130 seconds=57.2
+cnn_permuted_17 17/24 train=0.54987 val=1.70581 acc=0.5096 seconds=60.8
+cnn_permuted_17 18/24 train=0.51794 val=1.73416 acc=0.5096 seconds=64.4
+cnn_permuted_17 19/24 train=0.49760 val=1.76860 acc=0.5040 seconds=68.0
+cnn_permuted_17 20/24 train=0.47756 val=1.78928 acc=0.5080 seconds=71.6
+cnn_permuted_17 21/24 train=0.46205 val=1.80730 acc=0.5062 seconds=75.1
+cnn_permuted_17 22/24 train=0.45448 val=1.81317 acc=0.5082 seconds=78.7
+cnn_permuted_17 23/24 train=0.45093 val=1.82243 acc=0.5068 seconds=82.3
+cnn_permuted_17 24/24 train=0.44945 val=1.82179 acc=0.5092 seconds=85.9
+mlp_clean_29 1/24 train=1.49132 val=1.56509 acc=0.4462 seconds=0.5
+mlp_clean_29 2/24 train=1.38322 val=1.49781 acc=0.4814 seconds=1.0
+mlp_clean_29 3/24 train=1.27045 val=1.44520 acc=0.4964 seconds=1.6
+mlp_clean_29 4/24 train=1.24693 val=1.47912 acc=0.4936 seconds=2.1
+mlp_clean_29 5/24 train=1.14056 val=1.42963 acc=0.5090 seconds=2.7
+mlp_clean_29 6/24 train=1.10242 val=1.43103 acc=0.5094 seconds=3.2
+mlp_clean_29 7/24 train=1.05565 val=1.44333 acc=0.5022 seconds=3.7
+mlp_clean_29 8/24 train=0.98713 val=1.42070 acc=0.5208 seconds=4.3
+mlp_clean_29 9/24 train=0.94772 val=1.44129 acc=0.5270 seconds=4.8
+mlp_clean_29 10/24 train=0.90063 val=1.45585 acc=0.5140 seconds=5.3
+mlp_clean_29 11/24 train=0.85003 val=1.45190 acc=0.5248 seconds=5.8
+mlp_clean_29 12/24 train=0.81891 val=1.48337 acc=0.5280 seconds=6.3
+mlp_clean_29 13/24 train=0.78957 val=1.50746 acc=0.5264 seconds=6.9
+mlp_clean_29 14/24 train=0.75223 val=1.51841 acc=0.5274 seconds=7.4
+mlp_clean_29 15/24 train=0.72743 val=1.53830 acc=0.5202 seconds=7.9
+mlp_clean_29 16/24 train=0.70444 val=1.54082 acc=0.5268 seconds=8.4
+mlp_clean_29 17/24 train=0.67650 val=1.55779 acc=0.5254 seconds=9.0
+mlp_clean_29 18/24 train=0.65913 val=1.57445 acc=0.5256 seconds=9.5
+mlp_clean_29 19/24 train=0.64699 val=1.57848 acc=0.5250 seconds=10.0
+mlp_clean_29 20/24 train=0.63474 val=1.58861 acc=0.5234 seconds=10.5
+mlp_clean_29 21/24 train=0.62594 val=1.59117 acc=0.5262 seconds=11.1
+mlp_clean_29 22/24 train=0.62054 val=1.59429 acc=0.5268 seconds=11.6
+mlp_clean_29 23/24 train=0.61773 val=1.59712 acc=0.5252 seconds=12.1
+mlp_clean_29 24/24 train=0.61718 val=1.59700 acc=0.5262 seconds=12.7
+cnn_clean_29 1/24 train=1.27834 val=1.29458 acc=0.5416 seconds=3.5
+cnn_clean_29 2/24 train=1.10435 val=1.14377 acc=0.6010 seconds=7.1
+cnn_clean_29 3/24 train=0.90575 val=0.98319 acc=0.6616 seconds=10.7
+cnn_clean_29 4/24 train=0.84668 val=0.95753 acc=0.6672 seconds=14.3
+cnn_clean_29 5/24 train=0.69847 val=0.84653 acc=0.7072 seconds=18.0
+cnn_clean_29 6/24 train=0.62172 val=0.81782 acc=0.7178 seconds=21.6
+cnn_clean_29 7/24 train=0.57506 val=0.81911 acc=0.7170 seconds=25.2
+cnn_clean_29 8/24 train=0.50257 val=0.79451 acc=0.7356 seconds=28.8
+cnn_clean_29 9/24 train=0.46296 val=0.81384 acc=0.7356 seconds=32.5
+cnn_clean_29 10/24 train=0.37856 val=0.78123 acc=0.7454 seconds=36.1
+cnn_clean_29 11/24 train=0.34189 val=0.79439 acc=0.7486 seconds=39.7
+cnn_clean_29 12/24 train=0.28477 val=0.80695 acc=0.7542 seconds=43.3
+cnn_clean_29 13/24 train=0.25788 val=0.81924 acc=0.7484 seconds=47.0
+cnn_clean_29 14/24 train=0.23673 val=0.86634 acc=0.7466 seconds=50.6
+cnn_clean_29 15/24 train=0.19334 val=0.88597 acc=0.7480 seconds=54.3
+cnn_clean_29 16/24 train=0.17611 val=0.92851 acc=0.7416 seconds=57.9
+cnn_clean_29 17/24 train=0.14496 val=0.93910 acc=0.7478 seconds=61.6
+cnn_clean_29 18/24 train=0.13099 val=0.96557 acc=0.7488 seconds=65.3
+cnn_clean_29 19/24 train=0.11327 val=0.97877 acc=0.7458 seconds=68.9
+cnn_clean_29 20/24 train=0.10465 val=1.00344 acc=0.7476 seconds=72.5
+cnn_clean_29 21/24 train=0.09908 val=1.01023 acc=0.7454 seconds=76.2
+cnn_clean_29 22/24 train=0.09461 val=1.01727 acc=0.7480 seconds=79.9
+cnn_clean_29 23/24 train=0.09356 val=1.01972 acc=0.7488 seconds=83.5
+cnn_clean_29 24/24 train=0.09262 val=1.02239 acc=0.7490 seconds=87.2
+mlp_permuted_29 1/24 train=1.49259 val=1.56976 acc=0.4464 seconds=0.6
+mlp_permuted_29 2/24 train=1.38463 val=1.50323 acc=0.4770 seconds=1.2
+mlp_permuted_29 3/24 train=1.27244 val=1.45442 acc=0.4950 seconds=1.8
+mlp_permuted_29 4/24 train=1.23881 val=1.47236 acc=0.4882 seconds=2.3
+mlp_permuted_29 5/24 train=1.14741 val=1.43533 acc=0.5004 seconds=2.9
+mlp_permuted_29 6/24 train=1.09988 val=1.43700 acc=0.5056 seconds=3.5
+mlp_permuted_29 7/24 train=1.04393 val=1.43966 acc=0.5100 seconds=4.1
+mlp_permuted_29 8/24 train=0.98976 val=1.42874 acc=0.5140 seconds=4.6
+mlp_permuted_29 9/24 train=0.95472 val=1.45092 acc=0.5188 seconds=5.2
+mlp_permuted_29 10/24 train=0.91161 val=1.46460 acc=0.5154 seconds=5.8
+mlp_permuted_29 11/24 train=0.85350 val=1.46745 acc=0.5174 seconds=6.4
+mlp_permuted_29 12/24 train=0.81976 val=1.48224 acc=0.5250 seconds=7.0
+mlp_permuted_29 13/24 train=0.78105 val=1.49924 acc=0.5240 seconds=7.5
+mlp_permuted_29 14/24 train=0.75670 val=1.52098 acc=0.5262 seconds=8.2
+mlp_permuted_29 15/24 train=0.72842 val=1.53155 acc=0.5230 seconds=8.7
+mlp_permuted_29 16/24 train=0.70291 val=1.54386 acc=0.5236 seconds=9.3
+mlp_permuted_29 17/24 train=0.67589 val=1.55549 acc=0.5292 seconds=9.9
+mlp_permuted_29 18/24 train=0.65684 val=1.57317 acc=0.5232 seconds=10.4
+mlp_permuted_29 19/24 train=0.64498 val=1.57341 acc=0.5234 seconds=11.0
+mlp_permuted_29 20/24 train=0.63393 val=1.58646 acc=0.5226 seconds=11.6
+mlp_permuted_29 21/24 train=0.62429 val=1.58787 acc=0.5270 seconds=12.2
+mlp_permuted_29 22/24 train=0.61851 val=1.59226 acc=0.5290 seconds=12.7
+mlp_permuted_29 23/24 train=0.61578 val=1.59291 acc=0.5248 seconds=13.3
+mlp_permuted_29 24/24 train=0.61508 val=1.59314 acc=0.5254 seconds=14.0
+cnn_permuted_29 1/24 train=1.80652 val=1.82855 acc=0.3300 seconds=3.6
+cnn_permuted_29 2/24 train=1.62782 val=1.66823 acc=0.4042 seconds=7.3
+cnn_permuted_29 3/24 train=1.48601 val=1.54074 acc=0.4532 seconds=10.8
+cnn_permuted_29 4/24 train=1.38118 val=1.48259 acc=0.4666 seconds=14.5
+cnn_permuted_29 5/24 train=1.30296 val=1.44503 acc=0.4934 seconds=18.1
+cnn_permuted_29 6/24 train=1.23893 val=1.43366 acc=0.4906 seconds=21.7
+cnn_permuted_29 7/24 train=1.15646 val=1.40034 acc=0.4990 seconds=25.4
+cnn_permuted_29 8/24 train=1.14752 val=1.46936 acc=0.4880 seconds=29.0
+cnn_permuted_29 9/24 train=1.03451 val=1.40269 acc=0.5092 seconds=32.7
+cnn_permuted_29 10/24 train=0.98072 val=1.46154 acc=0.4920 seconds=36.4
+cnn_permuted_29 11/24 train=0.90195 val=1.48740 acc=0.5024 seconds=40.1
+cnn_permuted_29 12/24 train=0.81591 val=1.48264 acc=0.5088 seconds=43.7
+cnn_permuted_29 13/24 train=0.77974 val=1.55545 acc=0.5014 seconds=47.3
+cnn_permuted_29 14/24 train=0.73654 val=1.59542 acc=0.4980 seconds=50.9
+cnn_permuted_29 15/24 train=0.67299 val=1.61559 acc=0.5030 seconds=54.6
+cnn_permuted_29 16/24 train=0.64017 val=1.66897 acc=0.5038 seconds=58.2
+cnn_permuted_29 17/24 train=0.58702 val=1.67596 acc=0.4966 seconds=61.8
+cnn_permuted_29 18/24 train=0.56187 val=1.71181 acc=0.5032 seconds=65.5
+cnn_permuted_29 19/24 train=0.52917 val=1.72305 acc=0.5042 seconds=69.1
+cnn_permuted_29 20/24 train=0.51135 val=1.75341 acc=0.5002 seconds=72.8
+cnn_permuted_29 21/24 train=0.50126 val=1.76795 acc=0.5012 seconds=76.5
+cnn_permuted_29 22/24 train=0.49372 val=1.77194 acc=0.5056 seconds=80.1
+cnn_permuted_29 23/24 train=0.48908 val=1.78296 acc=0.5040 seconds=83.8
+cnn_permuted_29 24/24 train=0.48774 val=1.78127 acc=0.5032 seconds=87.5
+mlp_grayscale_17 1/24 train=1.73564 val=1.77884 acc=0.3764 seconds=0.7
+mlp_grayscale_17 2/24 train=1.58801 val=1.68758 acc=0.4074 seconds=1.5
+mlp_grayscale_17 3/24 train=1.51923 val=1.65748 acc=0.4156 seconds=2.2
+mlp_grayscale_17 4/24 train=1.43567 val=1.61594 acc=0.4414 seconds=3.0
+mlp_grayscale_17 5/24 train=1.39918 val=1.61564 acc=0.4414 seconds=3.7
+mlp_grayscale_17 6/24 train=1.34484 val=1.60816 acc=0.4408 seconds=4.5
+mlp_grayscale_17 7/24 train=1.29293 val=1.59892 acc=0.4442 seconds=5.2
+mlp_grayscale_17 8/24 train=1.24974 val=1.60274 acc=0.4516 seconds=5.9
+mlp_grayscale_17 9/24 train=1.21117 val=1.60021 acc=0.4486 seconds=6.6
+mlp_grayscale_17 10/24 train=1.18468 val=1.62055 acc=0.4492 seconds=7.3
+mlp_grayscale_17 11/24 train=1.14750 val=1.63231 acc=0.4484 seconds=8.0
+mlp_grayscale_17 12/24 train=1.11888 val=1.64197 acc=0.4462 seconds=8.7
+mlp_grayscale_17 13/24 train=1.07845 val=1.64676 acc=0.4478 seconds=9.4
+mlp_grayscale_17 14/24 train=1.03820 val=1.63868 acc=0.4500 seconds=10.1
+mlp_grayscale_17 15/24 train=1.02820 val=1.67041 acc=0.4528 seconds=10.8
+mlp_grayscale_17 16/24 train=0.99018 val=1.67194 acc=0.4448 seconds=11.5
+mlp_grayscale_17 17/24 train=0.97786 val=1.68479 acc=0.4470 seconds=12.2
+mlp_grayscale_17 18/24 train=0.96397 val=1.69579 acc=0.4446 seconds=12.9
+mlp_grayscale_17 19/24 train=0.94815 val=1.69930 acc=0.4498 seconds=13.6
+mlp_grayscale_17 20/24 train=0.93583 val=1.70279 acc=0.4490 seconds=14.4
+mlp_grayscale_17 21/24 train=0.92921 val=1.70506 acc=0.4492 seconds=15.1
+mlp_grayscale_17 22/24 train=0.92424 val=1.70613 acc=0.4538 seconds=15.8
+mlp_grayscale_17 23/24 train=0.92227 val=1.70737 acc=0.4524 seconds=16.5
+mlp_grayscale_17 24/24 train=0.92133 val=1.70701 acc=0.4494 seconds=17.2
+cnn_grayscale_17 1/24 train=1.37402 val=1.39835 acc=0.5120 seconds=3.7
+cnn_grayscale_17 2/24 train=1.09755 val=1.15006 acc=0.6024 seconds=7.4
+cnn_grayscale_17 3/24 train=0.95085 val=1.02874 acc=0.6408 seconds=11.1
+cnn_grayscale_17 4/24 train=0.83416 val=0.94215 acc=0.6742 seconds=14.9
+cnn_grayscale_17 5/24 train=0.73995 val=0.88165 acc=0.6996 seconds=18.5
+cnn_grayscale_17 6/24 train=0.66655 val=0.86479 acc=0.7038 seconds=22.3
+cnn_grayscale_17 7/24 train=0.62253 val=0.87650 acc=0.7050 seconds=26.0
+cnn_grayscale_17 8/24 train=0.57728 val=0.87051 acc=0.7032 seconds=29.7
+cnn_grayscale_17 9/24 train=0.49329 val=0.83597 acc=0.7252 seconds=33.4
+cnn_grayscale_17 10/24 train=0.43463 val=0.83858 acc=0.7252 seconds=37.0
+cnn_grayscale_17 11/24 train=0.38413 val=0.83941 acc=0.7270 seconds=40.7
+cnn_grayscale_17 12/24 train=0.34141 val=0.85354 acc=0.7270 seconds=44.3
+cnn_grayscale_17 13/24 train=0.29638 val=0.90315 acc=0.7290 seconds=48.0
+cnn_grayscale_17 14/24 train=0.25757 val=0.91998 acc=0.7306 seconds=51.7
+cnn_grayscale_17 15/24 train=0.22894 val=0.94455 acc=0.7282 seconds=55.3
+cnn_grayscale_17 16/24 train=0.19771 val=0.97319 acc=0.7270 seconds=59.0
+cnn_grayscale_17 17/24 train=0.17063 val=0.99859 acc=0.7312 seconds=62.7
+cnn_grayscale_17 18/24 train=0.15649 val=1.02745 acc=0.7298 seconds=66.4
+cnn_grayscale_17 19/24 train=0.13883 val=1.04426 acc=0.7324 seconds=70.0
+cnn_grayscale_17 20/24 train=0.12977 val=1.07483 acc=0.7276 seconds=73.6
+cnn_grayscale_17 21/24 train=0.12258 val=1.09268 acc=0.7304 seconds=77.3
+cnn_grayscale_17 22/24 train=0.11840 val=1.09665 acc=0.7302 seconds=80.9
+cnn_grayscale_17 23/24 train=0.11605 val=1.09895 acc=0.7310 seconds=84.6
+cnn_grayscale_17 24/24 train=0.11517 val=1.10081 acc=0.7316 seconds=88.2
+memorisation 1/150 train=2.10343 val=1.98327 acc=0.3138 seconds=0.2
+memorisation 2/150 train=1.97492 val=1.90851 acc=0.3374 seconds=0.4
+memorisation 3/150 train=1.92685 val=1.99771 acc=0.3088 seconds=0.6
+memorisation 4/150 train=1.79997 val=1.93502 acc=0.3198 seconds=0.8
+memorisation 5/150 train=1.61653 val=1.92424 acc=0.3266 seconds=1.0
+memorisation 6/150 train=1.49311 val=2.03111 acc=0.3090 seconds=1.2
+memorisation 7/150 train=1.27736 val=2.05532 acc=0.3174 seconds=1.4
+memorisation 8/150 train=1.16269 val=2.21166 acc=0.3000 seconds=1.6
+memorisation 9/150 train=1.02166 val=2.44083 acc=0.2680 seconds=1.8
+memorisation 10/150 train=0.91297 val=2.45352 acc=0.2950 seconds=2.0
+memorisation 11/150 train=0.68140 val=2.55191 acc=0.3000 seconds=2.2
+memorisation 12/150 train=0.58984 val=2.73560 acc=0.2696 seconds=2.5
+memorisation 13/150 train=0.48034 val=2.86720 acc=0.2908 seconds=2.7
+memorisation 14/150 train=0.44652 val=3.09803 acc=0.2832 seconds=2.9
+memorisation 15/150 train=0.39442 val=3.11893 acc=0.2754 seconds=3.1
+memorisation 16/150 train=0.33282 val=3.31937 acc=0.2798 seconds=3.3
+memorisation 17/150 train=0.18018 val=3.41147 acc=0.2844 seconds=3.5
+memorisation 18/150 train=0.15839 val=3.72319 acc=0.2708 seconds=3.7
+memorisation 19/150 train=0.10354 val=3.76861 acc=0.2982 seconds=3.9
+memorisation 20/150 train=0.10806 val=3.97012 acc=0.2782 seconds=4.1
+memorisation 21/150 train=0.07209 val=3.96861 acc=0.2994 seconds=4.3
+memorisation 22/150 train=0.04227 val=4.17634 acc=0.2860 seconds=4.5
+memorisation 23/150 train=0.04453 val=4.17572 acc=0.2844 seconds=4.7
+memorisation 24/150 train=0.08031 val=4.24097 acc=0.2870 seconds=4.9
+memorisation 25/150 train=0.06702 val=4.36830 acc=0.2772 seconds=5.1
+memorisation 26/150 train=0.10510 val=4.53352 acc=0.2848 seconds=5.2
+memorisation 27/150 train=0.13598 val=4.66766 acc=0.2660 seconds=5.4
+memorisation 28/150 train=0.20385 val=4.49271 acc=0.2806 seconds=5.6
+memorisation 29/150 train=0.20102 val=4.51001 acc=0.2728 seconds=5.8
+memorisation 30/150 train=0.13359 val=4.41756 acc=0.2766 seconds=6.0
+memorisation 31/150 train=0.06860 val=4.58526 acc=0.2730 seconds=6.2
+memorisation 32/150 train=0.03142 val=4.81834 acc=0.2714 seconds=6.4
+memorisation 33/150 train=0.01180 val=4.79620 acc=0.2806 seconds=6.6
+memorisation 34/150 train=0.00636 val=4.90106 acc=0.2890 seconds=6.8
+memorisation 35/150 train=0.00459 val=4.96045 acc=0.2866 seconds=7.0
+memorisation 36/150 train=0.00346 val=5.02365 acc=0.2900 seconds=7.2
+memorisation 37/150 train=0.00293 val=5.07708 acc=0.2882 seconds=7.4
+memorisation 38/150 train=0.00261 val=5.12129 acc=0.2906 seconds=7.7
+memorisation 39/150 train=0.00235 val=5.15922 acc=0.2904 seconds=7.8
+memorisation 40/150 train=0.00214 val=5.19969 acc=0.2918 seconds=8.0
+memorisation 41/150 train=0.00196 val=5.23022 acc=0.2912 seconds=8.2
+memorisation 42/150 train=0.00183 val=5.26500 acc=0.2914 seconds=8.4
+memorisation 43/150 train=0.00178 val=5.30228 acc=0.2890 seconds=8.6
+memorisation 44/150 train=0.00160 val=5.32577 acc=0.2898 seconds=8.9
+memorisation 45/150 train=0.00151 val=5.35146 acc=0.2908 seconds=9.1
+memorisation 46/150 train=0.00141 val=5.36967 acc=0.2902 seconds=9.2
+memorisation 47/150 train=0.00133 val=5.39350 acc=0.2912 seconds=9.4
+memorisation 48/150 train=0.00126 val=5.41181 acc=0.2906 seconds=9.6
+memorisation 49/150 train=0.00120 val=5.43130 acc=0.2912 seconds=9.8
+memorisation 50/150 train=0.00115 val=5.45111 acc=0.2920 seconds=10.0
+memorisation 51/150 train=0.00110 val=5.47216 acc=0.2894 seconds=10.2
+memorisation 52/150 train=0.00105 val=5.49038 acc=0.2902 seconds=10.4
+memorisation 53/150 train=0.00101 val=5.50988 acc=0.2898 seconds=10.6
+memorisation 54/150 train=0.00097 val=5.52356 acc=0.2886 seconds=10.8
+memorisation 55/150 train=0.00093 val=5.54183 acc=0.2910 seconds=11.0
+memorisation 56/150 train=0.00090 val=5.55681 acc=0.2912 seconds=11.2
+memorisation 57/150 train=0.00086 val=5.57224 acc=0.2910 seconds=11.4
+memorisation 58/150 train=0.00083 val=5.58669 acc=0.2900 seconds=11.6
+memorisation 59/150 train=0.00081 val=5.60071 acc=0.2908 seconds=11.8
+memorisation 60/150 train=0.00078 val=5.61473 acc=0.2910 seconds=12.0
+memorisation 61/150 train=0.00076 val=5.63393 acc=0.2916 seconds=12.2
+memorisation 62/150 train=0.00073 val=5.64290 acc=0.2918 seconds=12.4
+memorisation 63/150 train=0.00071 val=5.65376 acc=0.2904 seconds=12.6
+memorisation 64/150 train=0.00069 val=5.66581 acc=0.2920 seconds=12.8
+memorisation 65/150 train=0.00067 val=5.67736 acc=0.2914 seconds=13.0
+memorisation 66/150 train=0.00065 val=5.68712 acc=0.2912 seconds=13.2
+memorisation 67/150 train=0.00063 val=5.70133 acc=0.2922 seconds=13.5
+memorisation 68/150 train=0.00061 val=5.71138 acc=0.2918 seconds=13.7
+memorisation 69/150 train=0.00060 val=5.72452 acc=0.2918 seconds=13.9
+memorisation 70/150 train=0.00058 val=5.73257 acc=0.2930 seconds=14.1
+memorisation 71/150 train=0.00057 val=5.74285 acc=0.2926 seconds=14.3
+memorisation 72/150 train=0.00056 val=5.75379 acc=0.2922 seconds=14.5
+memorisation 73/150 train=0.00054 val=5.76483 acc=0.2920 seconds=14.7
+memorisation 74/150 train=0.00053 val=5.77246 acc=0.2918 seconds=14.8
+memorisation 75/150 train=0.00052 val=5.78275 acc=0.2902 seconds=15.0
+memorisation 76/150 train=0.00051 val=5.79190 acc=0.2916 seconds=15.2
+memorisation 77/150 train=0.00050 val=5.80280 acc=0.2908 seconds=15.4
+memorisation 78/150 train=0.00049 val=5.81043 acc=0.2912 seconds=15.6
+memorisation 79/150 train=0.00048 val=5.81929 acc=0.2918 seconds=15.8
+memorisation 80/150 train=0.00047 val=5.82816 acc=0.2906 seconds=16.0
+memorisation 81/150 train=0.00046 val=5.83650 acc=0.2918 seconds=16.2
+memorisation 82/150 train=0.00045 val=5.84452 acc=0.2916 seconds=16.4
+memorisation 83/150 train=0.00044 val=5.85350 acc=0.2908 seconds=16.6
+memorisation 84/150 train=0.00043 val=5.86336 acc=0.2904 seconds=16.8
+memorisation 85/150 train=0.00043 val=5.86753 acc=0.2918 seconds=17.0
+memorisation 86/150 train=0.00042 val=5.87585 acc=0.2914 seconds=17.2
+memorisation 87/150 train=0.00041 val=5.88374 acc=0.2908 seconds=17.4
+memorisation 88/150 train=0.00040 val=5.89137 acc=0.2918 seconds=17.6
+memorisation 89/150 train=0.00040 val=5.89837 acc=0.2912 seconds=17.8
+memorisation 90/150 train=0.00039 val=5.90571 acc=0.2906 seconds=18.0
+memorisation 91/150 train=0.00038 val=5.91258 acc=0.2908 seconds=18.3
+memorisation 92/150 train=0.00038 val=5.91870 acc=0.2914 seconds=18.5
+memorisation 93/150 train=0.00037 val=5.92454 acc=0.2910 seconds=18.7
+memorisation 94/150 train=0.00037 val=5.93262 acc=0.2906 seconds=18.9
+memorisation 95/150 train=0.00036 val=5.93914 acc=0.2912 seconds=19.1
+memorisation 96/150 train=0.00036 val=5.94437 acc=0.2906 seconds=19.3
+memorisation 97/150 train=0.00035 val=5.95320 acc=0.2902 seconds=19.5
+memorisation 98/150 train=0.00035 val=5.95693 acc=0.2902 seconds=19.7
+memorisation 99/150 train=0.00034 val=5.96243 acc=0.2914 seconds=19.9
+memorisation 100/150 train=0.00034 val=5.96711 acc=0.2900 seconds=20.1
+memorisation 101/150 train=0.00033 val=5.97191 acc=0.2902 seconds=20.3
+memorisation 102/150 train=0.00033 val=5.97745 acc=0.2902 seconds=20.5
+memorisation 103/150 train=0.00032 val=5.98172 acc=0.2908 seconds=20.7
+memorisation 104/150 train=0.00032 val=5.98742 acc=0.2902 seconds=20.9
+memorisation 105/150 train=0.00032 val=5.99186 acc=0.2900 seconds=21.1
+memorisation 106/150 train=0.00031 val=5.99603 acc=0.2902 seconds=21.3
+memorisation 107/150 train=0.00031 val=5.99965 acc=0.2910 seconds=21.5
+memorisation 108/150 train=0.00031 val=6.00378 acc=0.2904 seconds=21.7
+memorisation 109/150 train=0.00031 val=6.00727 acc=0.2908 seconds=21.9
+memorisation 110/150 train=0.00030 val=6.01127 acc=0.2902 seconds=22.1
+memorisation 111/150 train=0.00030 val=6.01557 acc=0.2902 seconds=22.3
+memorisation 112/150 train=0.00030 val=6.01908 acc=0.2912 seconds=22.5
+memorisation 113/150 train=0.00029 val=6.02239 acc=0.2910 seconds=22.7
+memorisation 114/150 train=0.00029 val=6.02555 acc=0.2914 seconds=22.9
+memorisation 115/150 train=0.00029 val=6.02901 acc=0.2914 seconds=23.1
+memorisation 116/150 train=0.00029 val=6.03198 acc=0.2914 seconds=23.3
+memorisation 117/150 train=0.00029 val=6.03472 acc=0.2912 seconds=23.6
+memorisation 118/150 train=0.00028 val=6.03787 acc=0.2912 seconds=23.8
+memorisation 119/150 train=0.00028 val=6.04072 acc=0.2914 seconds=24.0
+memorisation 120/150 train=0.00028 val=6.04294 acc=0.2910 seconds=24.2
+memorisation 121/150 train=0.00028 val=6.04537 acc=0.2912 seconds=24.4
+memorisation 122/150 train=0.00028 val=6.04792 acc=0.2914 seconds=24.7
+memorisation 123/150 train=0.00028 val=6.04992 acc=0.2922 seconds=24.9
+memorisation 124/150 train=0.00027 val=6.05233 acc=0.2920 seconds=25.1
+memorisation 125/150 train=0.00027 val=6.05425 acc=0.2922 seconds=25.3
+memorisation 126/150 train=0.00027 val=6.05648 acc=0.2916 seconds=25.5
+memorisation 127/150 train=0.00027 val=6.05807 acc=0.2920 seconds=25.7
+memorisation 128/150 train=0.00027 val=6.05953 acc=0.2916 seconds=25.9
+memorisation 129/150 train=0.00027 val=6.06127 acc=0.2922 seconds=26.2
+memorisation 130/150 train=0.00027 val=6.06281 acc=0.2922 seconds=26.4
+memorisation 131/150 train=0.00027 val=6.06422 acc=0.2916 seconds=26.6
+memorisation 132/150 train=0.00027 val=6.06589 acc=0.2922 seconds=26.8
+memorisation 133/150 train=0.00027 val=6.06695 acc=0.2922 seconds=27.0
+memorisation 134/150 train=0.00026 val=6.06806 acc=0.2924 seconds=27.2
+memorisation 135/150 train=0.00026 val=6.06894 acc=0.2924 seconds=27.4
+memorisation 136/150 train=0.00026 val=6.06988 acc=0.2924 seconds=27.6
+memorisation 137/150 train=0.00026 val=6.07056 acc=0.2926 seconds=27.9
+memorisation 138/150 train=0.00026 val=6.07110 acc=0.2926 seconds=28.1
+memorisation 139/150 train=0.00026 val=6.07162 acc=0.2924 seconds=28.3
+memorisation 140/150 train=0.00026 val=6.07210 acc=0.2926 seconds=28.5
+memorisation 141/150 train=0.00026 val=6.07239 acc=0.2926 seconds=28.7
+memorisation 142/150 train=0.00026 val=6.07281 acc=0.2924 seconds=28.9
+memorisation 143/150 train=0.00026 val=6.07304 acc=0.2924 seconds=29.2
+memorisation 144/150 train=0.00026 val=6.07322 acc=0.2926 seconds=29.4
+memorisation 145/150 train=0.00026 val=6.07337 acc=0.2926 seconds=29.6
+memorisation 146/150 train=0.00026 val=6.07347 acc=0.2924 seconds=29.8
+memorisation 147/150 train=0.00026 val=6.07355 acc=0.2924 seconds=30.0
+memorisation 148/150 train=0.00026 val=6.07359 acc=0.2924 seconds=30.2
+memorisation 149/150 train=0.00026 val=6.07360 acc=0.2924 seconds=30.4
+memorisation 150/150 train=0.00026 val=6.07360 acc=0.2924 seconds=30.7
+ae_16 1/24 train=0.02688 val=0.02697 acc=NA (reconstruction only) seconds=2.2
+ae_16 2/24 train=0.02247 val=0.02265 acc=NA (reconstruction only) seconds=4.4
+ae_16 3/24 train=0.02030 val=0.02049 acc=NA (reconstruction only) seconds=6.6
+ae_16 4/24 train=0.01885 val=0.01898 acc=NA (reconstruction only) seconds=8.8
+ae_16 5/24 train=0.01803 val=0.01815 acc=NA (reconstruction only) seconds=10.9
+ae_16 6/24 train=0.01832 val=0.01844 acc=NA (reconstruction only) seconds=13.1
+ae_16 7/24 train=0.01761 val=0.01773 acc=NA (reconstruction only) seconds=15.3
+ae_16 8/24 train=0.01765 val=0.01778 acc=NA (reconstruction only) seconds=17.5
+ae_16 9/24 train=0.01745 val=0.01758 acc=NA (reconstruction only) seconds=19.7
+ae_16 10/24 train=0.01737 val=0.01751 acc=NA (reconstruction only) seconds=21.8
+ae_16 11/24 train=0.01740 val=0.01753 acc=NA (reconstruction only) seconds=24.0
+ae_16 12/24 train=0.01730 val=0.01744 acc=NA (reconstruction only) seconds=26.2
+ae_16 13/24 train=0.01726 val=0.01739 acc=NA (reconstruction only) seconds=28.4
+ae_16 14/24 train=0.01723 val=0.01736 acc=NA (reconstruction only) seconds=30.6
+ae_16 15/24 train=0.01721 val=0.01735 acc=NA (reconstruction only) seconds=32.7
+ae_16 16/24 train=0.01719 val=0.01733 acc=NA (reconstruction only) seconds=34.9
+ae_16 17/24 train=0.01717 val=0.01730 acc=NA (reconstruction only) seconds=37.1
+ae_16 18/24 train=0.01715 val=0.01729 acc=NA (reconstruction only) seconds=39.3
+ae_16 19/24 train=0.01714 val=0.01728 acc=NA (reconstruction only) seconds=41.5
+ae_16 20/24 train=0.01713 val=0.01727 acc=NA (reconstruction only) seconds=43.6
+ae_16 21/24 train=0.01712 val=0.01726 acc=NA (reconstruction only) seconds=45.8
+ae_16 22/24 train=0.01712 val=0.01726 acc=NA (reconstruction only) seconds=48.0
+ae_16 23/24 train=0.01711 val=0.01725 acc=NA (reconstruction only) seconds=50.2
+ae_16 24/24 train=0.01711 val=0.01725 acc=NA (reconstruction only) seconds=52.4
+ae_64 1/24 train=0.02473 val=0.02483 acc=NA (reconstruction only) seconds=2.2
+ae_64 2/24 train=0.01941 val=0.01961 acc=NA (reconstruction only) seconds=4.4
+ae_64 3/24 train=0.01586 val=0.01601 acc=NA (reconstruction only) seconds=6.7
+ae_64 4/24 train=0.01419 val=0.01429 acc=NA (reconstruction only) seconds=8.9
+ae_64 5/24 train=0.01330 val=0.01338 acc=NA (reconstruction only) seconds=11.1
+ae_64 6/24 train=0.01263 val=0.01271 acc=NA (reconstruction only) seconds=13.3
+ae_64 7/24 train=0.01207 val=0.01215 acc=NA (reconstruction only) seconds=15.6
+ae_64 8/24 train=0.01161 val=0.01170 acc=NA (reconstruction only) seconds=17.8
+ae_64 9/24 train=0.01127 val=0.01135 acc=NA (reconstruction only) seconds=20.0
+ae_64 10/24 train=0.01114 val=0.01123 acc=NA (reconstruction only) seconds=22.2
+ae_64 11/24 train=0.01105 val=0.01114 acc=NA (reconstruction only) seconds=24.4
+ae_64 12/24 train=0.01063 val=0.01073 acc=NA (reconstruction only) seconds=26.7
+ae_64 13/24 train=0.01047 val=0.01056 acc=NA (reconstruction only) seconds=28.9
+ae_64 14/24 train=0.01039 val=0.01048 acc=NA (reconstruction only) seconds=31.1
+ae_64 15/24 train=0.01025 val=0.01033 acc=NA (reconstruction only) seconds=33.3
+ae_64 16/24 train=0.01015 val=0.01023 acc=NA (reconstruction only) seconds=35.5
+ae_64 17/24 train=0.01007 val=0.01016 acc=NA (reconstruction only) seconds=37.8
+ae_64 18/24 train=0.01002 val=0.01010 acc=NA (reconstruction only) seconds=40.0
+ae_64 19/24 train=0.00997 val=0.01006 acc=NA (reconstruction only) seconds=42.2
+ae_64 20/24 train=0.00994 val=0.01002 acc=NA (reconstruction only) seconds=44.4
+ae_64 21/24 train=0.00991 val=0.00999 acc=NA (reconstruction only) seconds=46.7
+ae_64 22/24 train=0.00990 val=0.00998 acc=NA (reconstruction only) seconds=48.9
+ae_64 23/24 train=0.00989 val=0.00997 acc=NA (reconstruction only) seconds=51.1
+ae_64 24/24 train=0.00988 val=0.00997 acc=NA (reconstruction only) seconds=53.3
+ae_256 1/24 train=0.02209 val=0.02226 acc=NA (reconstruction only) seconds=2.3
+ae_256 2/24 train=0.01755 val=0.01778 acc=NA (reconstruction only) seconds=4.7
+ae_256 3/24 train=0.01364 val=0.01375 acc=NA (reconstruction only) seconds=7.0
+ae_256 4/24 train=0.01206 val=0.01216 acc=NA (reconstruction only) seconds=9.3
+ae_256 5/24 train=0.01103 val=0.01112 acc=NA (reconstruction only) seconds=11.7
+ae_256 6/24 train=0.01045 val=0.01054 acc=NA (reconstruction only) seconds=14.0
+ae_256 7/24 train=0.00994 val=0.01003 acc=NA (reconstruction only) seconds=16.4
+ae_256 8/24 train=0.00956 val=0.00964 acc=NA (reconstruction only) seconds=18.7
+ae_256 9/24 train=0.00914 val=0.00922 acc=NA (reconstruction only) seconds=21.1
+ae_256 10/24 train=0.00883 val=0.00891 acc=NA (reconstruction only) seconds=23.4
+ae_256 11/24 train=0.00860 val=0.00869 acc=NA (reconstruction only) seconds=25.7
+ae_256 12/24 train=0.00829 val=0.00838 acc=NA (reconstruction only) seconds=28.1
+ae_256 13/24 train=0.00801 val=0.00810 acc=NA (reconstruction only) seconds=30.4
+ae_256 14/24 train=0.00785 val=0.00793 acc=NA (reconstruction only) seconds=32.8
+Traceback (most recent call last):
+  File "/home/krishna/Desktop/IIT/ML/ML Assign 3/src/train.py", line 101, in <module>
+    if __name__=='__main__': main()
+                             ~~~~^^
+  File "/home/krishna/Desktop/IIT/ML/ML Assign 3/src/train.py", line 96, in main
+    for dim in CFG['autoencoder']['bottlenecks']: train_one(f'ae_{dim}','ae',seed=59,dim=dim)
+                                                  ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/krishna/Desktop/IIT/ML/ML Assign 3/src/train.py", line 68, in train_one
+    train_loss,train_acc=assess(model,x,y,img,condition,auto,kind=='dae')
+                         ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/krishna/Desktop/IIT/ML/ML Assign 3/.venv/lib/python3.13/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/krishna/Desktop/IIT/ML/ML Assign 3/src/train.py", line 16, in assess
+    if auto: total+=nn.functional.mse_loss(out,clean,reduction='sum').item()
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+KeyboardInterrupt
+Already complete mlp_clean_17
+Already complete cnn_clean_17
+Already complete mlp_permuted_17
+Already complete cnn_permuted_17
+Already complete mlp_clean_29
+Already complete cnn_clean_29
+Already complete mlp_permuted_29
+Already complete cnn_permuted_29
+Already complete mlp_grayscale_17
+Already complete cnn_grayscale_17
+Already complete memorisation
+Already complete ae_16
+Already complete ae_64
+Resuming ae_256 after epoch 14
+ae_256 15/24 train=0.00766 val=0.00775 acc=NA (reconstruction only) seconds=35.4
+ae_256 16/24 train=0.00752 val=0.00761 acc=NA (reconstruction only) seconds=37.8
+ae_256 17/24 train=0.00740 val=0.00749 acc=NA (reconstruction only) seconds=40.2
+ae_256 18/24 train=0.00728 val=0.00737 acc=NA (reconstruction only) seconds=42.6
+ae_256 19/24 train=0.00717 val=0.00725 acc=NA (reconstruction only) seconds=45.0
+ae_256 20/24 train=0.00709 val=0.00717 acc=NA (reconstruction only) seconds=47.4
+ae_256 21/24 train=0.00702 val=0.00710 acc=NA (reconstruction only) seconds=49.8
+ae_256 22/24 train=0.00698 val=0.00706 acc=NA (reconstruction only) seconds=52.2
+ae_256 23/24 train=0.00696 val=0.00704 acc=NA (reconstruction only) seconds=54.6
+ae_256 24/24 train=0.00696 val=0.00704 acc=NA (reconstruction only) seconds=57.0
+dae 1/24 train=0.02383 val=0.02396 acc=NA (reconstruction only) seconds=2.4
+dae 2/24 train=0.01898 val=0.01919 acc=NA (reconstruction only) seconds=4.8
+dae 3/24 train=0.01475 val=0.01487 acc=NA (reconstruction only) seconds=7.2
+dae 4/24 train=0.01309 val=0.01319 acc=NA (reconstruction only) seconds=9.6
+dae 5/24 train=0.01224 val=0.01234 acc=NA (reconstruction only) seconds=12.0
+dae 6/24 train=0.01176 val=0.01186 acc=NA (reconstruction only) seconds=14.4
+dae 7/24 train=0.01116 val=0.01126 acc=NA (reconstruction only) seconds=16.8
+dae 8/24 train=0.01083 val=0.01093 acc=NA (reconstruction only) seconds=19.2
+dae 9/24 train=0.01030 val=0.01040 acc=NA (reconstruction only) seconds=21.6
+dae 10/24 train=0.00996 val=0.01006 acc=NA (reconstruction only) seconds=24.1
+dae 11/24 train=0.00985 val=0.00996 acc=NA (reconstruction only) seconds=26.5
+dae 12/24 train=0.00948 val=0.00958 acc=NA (reconstruction only) seconds=28.9
+dae 13/24 train=0.00928 val=0.00938 acc=NA (reconstruction only) seconds=31.3
+dae 14/24 train=0.00919 val=0.00929 acc=NA (reconstruction only) seconds=33.7
+dae 15/24 train=0.00900 val=0.00910 acc=NA (reconstruction only) seconds=36.1
+dae 16/24 train=0.00889 val=0.00899 acc=NA (reconstruction only) seconds=38.5
+dae 17/24 train=0.00880 val=0.00890 acc=NA (reconstruction only) seconds=40.9
+dae 18/24 train=0.00873 val=0.00883 acc=NA (reconstruction only) seconds=43.3
+dae 19/24 train=0.00867 val=0.00877 acc=NA (reconstruction only) seconds=45.7
+dae 20/24 train=0.00863 val=0.00873 acc=NA (reconstruction only) seconds=48.1
+dae 21/24 train=0.00860 val=0.00870 acc=NA (reconstruction only) seconds=50.5
+dae 22/24 train=0.00858 val=0.00868 acc=NA (reconstruction only) seconds=53.0
+dae 23/24 train=0.00857 val=0.00867 acc=NA (reconstruction only) seconds=55.4
+dae 24/24 train=0.00856 val=0.00867 acc=NA (reconstruction only) seconds=57.8

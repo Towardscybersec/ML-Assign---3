@@ -1,0 +1,10 @@
+{
+  "checkpoint": "artifacts/runs/cnn_clean_17/best.pt",
+  "checkpoint_sha256": "4afa05a7c972776f0303b7ec16e36a98f6ad968d27e04c6f5927c26a7d90bb0c",
+  "split_sha256": "8e24849c8a75383d23c650744de88916891d4e640452e3b5b9e825fed0b43dd6",
+  "dimension": 128,
+  "extraction": "training-normalised clean image; penultimate ReLU",
+  "encoder_frozen": true,
+  "feature_sha256": "1375b73d683bd483cd2b40f8a891294e7e29ecfd9be8fb00f6fed97ec6c07236",
+  "first_question": "Q1(a)/Q2(a)"
+}
