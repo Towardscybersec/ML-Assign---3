@@ -1,0 +1,19 @@
+{
+  "useful_epoch": 1,
+  "memorisation_onset_epoch": 4,
+  "saturation_epoch": 13,
+  "last": {
+    "epoch": 150.0,
+    "train_loss": 0.000260798821598,
+    "train_accuracy": 1.0,
+    "online_loss": 0.00026080062710600005,
+    "val_loss": 6.073603796386719,
+    "val_accuracy": 0.2924,
+    "lr": 0.0,
+    "elapsed_seconds": 30.652588749013375,
+    "uncorrupted_accuracy": 1.0,
+    "corrupt_target_accuracy": 1.0,
+    "corrupt_original_accuracy": 0.0
+  },
+  "criterion": "first of two consecutive epochs above prospectively fixed thresholds"
+}

@@ -1,0 +1,42 @@
+{
+  "hardware": {
+    "python": "3.13.12",
+    "torch": "2.6.0+cu124",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "cpu": "",
+    "deterministic": true,
+    "tf32": false
+  },
+  "train": 45000,
+  "val": 5000,
+  "train_counts": [
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500
+  ],
+  "val_counts": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "split_sha256": "8e24849c8a75383d23c650744de88916891d4e640452e3b5b9e825fed0b43dd6",
+  "official_archive_sha256": "6d958be074577803d12ecdefd02955f39262c83c16fe9348329d7fe0b5c001ce",
+  "permutation_seed": 260013,
+  "corruption_seed": 43,
+  "svm_subset_seed": 71
+}

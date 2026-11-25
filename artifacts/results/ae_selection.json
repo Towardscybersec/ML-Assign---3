@@ -1,0 +1,5 @@
+{
+  "dim": 256,
+  "validation_mse": 0.007035141611099243,
+  "criterion": "minimum validation MSE"
+}

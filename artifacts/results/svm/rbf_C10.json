@@ -1,0 +1,11 @@
+{
+  "kernel": "rbf",
+  "C": 10,
+  "train_accuracy": 0.9893333333333333,
+  "val_accuracy": 0.7318,
+  "sv_fraction": 0.5231666666666667,
+  "support_vectors": 3139,
+  "gamma": 0.014615793229588538,
+  "seconds": 3.5651643680030247,
+  "fit_status": 0
+}

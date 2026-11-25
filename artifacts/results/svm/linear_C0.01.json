@@ -1,0 +1,11 @@
+{
+  "kernel": "linear",
+  "C": 0.01,
+  "train_accuracy": 0.8673333333333333,
+  "val_accuracy": 0.7504,
+  "sv_fraction": 0.5021666666666667,
+  "support_vectors": 3013,
+  "gamma": 0.014615793229588538,
+  "seconds": 1.4231278910010587,
+  "fit_status": 0
+}

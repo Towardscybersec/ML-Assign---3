@@ -1,0 +1,10 @@
+{
+  "k": 8,
+  "mean_val_silhouette": 0.10168567548195521,
+  "std_val_silhouette": 0.00021234180044810654,
+  "mean_seed_ARI": 0.9852823295291034,
+  "final_seed": 83,
+  "train_samples": 45000,
+  "method": "KMeans",
+  "labels_used_for_selection": false
+}

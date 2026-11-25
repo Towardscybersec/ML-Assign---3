@@ -1,0 +1,8 @@
+{
+  "k": 8,
+  "seed": 97,
+  "val_silhouette": 0.1018873006105423,
+  "train_inertia": 1894236.875,
+  "iterations": 27,
+  "seconds": 1.8804004159901524
+}

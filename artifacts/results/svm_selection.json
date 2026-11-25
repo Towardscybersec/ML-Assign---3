@@ -1,0 +1,9 @@
+{
+  "C": 0.1,
+  "kernel": "poly",
+  "val_accuracy": 0.7546,
+  "train_samples": 6000,
+  "feature_scaler_fit_samples": 45000,
+  "representation": "cnn_clean_17",
+  "dimension": 128
+}

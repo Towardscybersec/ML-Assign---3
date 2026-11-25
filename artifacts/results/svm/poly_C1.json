@@ -1,0 +1,11 @@
+{
+  "kernel": "poly",
+  "C": 1,
+  "train_accuracy": 0.9496666666666667,
+  "val_accuracy": 0.7368,
+  "sv_fraction": 0.43916666666666665,
+  "support_vectors": 2635,
+  "gamma": 0.014615793229588538,
+  "seconds": 1.4705129149951972,
+  "fit_status": 0
+}
