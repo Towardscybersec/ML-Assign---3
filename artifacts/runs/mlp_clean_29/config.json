@@ -1,0 +1,33 @@
+{
+  "name": "mlp_clean_29",
+  "kind": "mlp",
+  "condition": "clean",
+  "seed": 29,
+  "dim": null,
+  "parameters": 357962,
+  "config": {
+    "epochs": 24,
+    "batch_size": 256,
+    "lr": 0.001,
+    "weight_decay": 0.0001
+  },
+  "shuffle_seed_rule": "seed*100000+zero_based_epoch, dedicated generator",
+  "hardware": {
+    "python": "3.13.12",
+    "torch": "2.6.0+cu124",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "cpu": "",
+    "deterministic": true,
+    "tf32": false
+  },
+  "split_sha256": "8e24849c8a75383d23c650744de88916891d4e640452e3b5b9e825fed0b43dd6",
+  "selection": "minimum clean validation CE",
+  "first_question": "Q1(a)/Q2(a)",
+  "source_hashes": {
+    "src/train.py": "697c84ab85787149c52f1e6bfc85d8484f03729ed821b54cd3ea9f262e91838d",
+    "src/models.py": "360e715043f6072538adb814c79023e4a97bcf86e38724bd187223e636f28b40",
+    "src/common.py": "9943bc640d4d97831aaa87d684a6bf7f4369eab58e5cfd4ee1a0246d5dbedd4b",
+    "configs/experiment.json": "eea27613e904b60fc49ea6b8710912b81d106d426a04e7b9a5fedad57b155178"
+  }
+}

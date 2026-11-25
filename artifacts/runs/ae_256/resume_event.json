@@ -1,0 +1,5 @@
+{
+  "resumed_after_epoch": 14,
+  "checkpoint_sha256": "a55200bdb8bf6b3bdc541b67242c0238f4db62853dad1ae42c10f1a55b2b93c0",
+  "restored_optimizer_scheduler_rng": true
+}

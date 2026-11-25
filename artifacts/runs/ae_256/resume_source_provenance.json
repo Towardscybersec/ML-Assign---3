@@ -1,0 +1,15 @@
+{
+  "original": {
+    "src/train.py": "697c84ab85787149c52f1e6bfc85d8484f03729ed821b54cd3ea9f262e91838d",
+    "src/models.py": "360e715043f6072538adb814c79023e4a97bcf86e38724bd187223e636f28b40",
+    "src/common.py": "9943bc640d4d97831aaa87d684a6bf7f4369eab58e5cfd4ee1a0246d5dbedd4b",
+    "configs/experiment.json": "eea27613e904b60fc49ea6b8710912b81d106d426a04e7b9a5fedad57b155178"
+  },
+  "resumed": {
+    "src/train.py": "d142cb25d21b47e973ad15b5f04333679de4ba0b3442f5ae78e7e9ab9a16126a",
+    "src/models.py": "360e715043f6072538adb814c79023e4a97bcf86e38724bd187223e636f28b40",
+    "src/common.py": "9943bc640d4d97831aaa87d684a6bf7f4369eab58e5cfd4ee1a0246d5dbedd4b",
+    "configs/experiment.json": "eea27613e904b60fc49ea6b8710912b81d106d426a04e7b9a5fedad57b155178"
+  },
+  "reason": "AE logging-only correction; optimiser, data, models, seeds and losses unchanged"
+}
