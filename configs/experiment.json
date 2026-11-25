@@ -1,0 +1,13 @@
+{
+  "identity": {"name": "Vaibhav Krishna", "roll": "P26CS0012", "split_seed": 260012, "deadline": "2026-11-27"},
+  "seeds": [17, 29],
+  "classifier": {"epochs": 24, "batch_size": 256, "lr": 0.001, "weight_decay": 0.0001},
+  "memorisation": {"seed": 43, "subset_size": 5000, "corruption_fraction": 0.4, "epochs": 150, "batch_size": 128, "lr": 0.001, "weight_decay": 0.0, "onset_threshold": 0.2, "saturation_threshold": 0.8, "useful_threshold": 0.2, "consecutive_epochs": 2},
+  "autoencoder": {"seed": 59, "bottlenecks": [16,64,256], "epochs": 24, "batch_size": 256, "lr": 0.001, "weight_decay": 0.0001, "noise_sigma": 0.2},
+  "probe": {"C": [0.01,0.1,1,10], "max_iter": 2000},
+  "svm": {"subset_size": 6000, "seed": 71, "C": [0.001,0.01,0.1,1,10,100], "kernels": ["linear","rbf","poly"], "gamma": "scale", "degree": 3, "coef0": 1.0},
+  "clustering": {"k": [8,10,12,15,20], "seeds": [83,97,109], "n_init": 10, "silhouette_sample": 2000},
+  "normalisation": "training channel mean and std only; autoencoders use [0,1]",
+  "third_condition": "fixed luminance grayscale: 0.2989R+0.5870G+0.1140B, repeated across RGB; retrain both models",
+  "selection": "lowest validation CE for classifiers; lowest validation MSE for AEs; highest validation accuracy for probes/SVM (ties smaller C, kernel order); highest mean validation silhouette for clustering (ties smaller k)"
+}
