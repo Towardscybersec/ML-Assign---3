@@ -1,0 +1,6 @@
+{
+  "completed_at_utc": "2026-11-07T10:37:51.370354+00:00",
+  "freeze_sha256": "f5316d7e19f98f43a945700e558252d0b3c49c26daba6a306d42ef0d6d44fb1f",
+  "n_test": 10000,
+  "no_selection_after_test": true
+}

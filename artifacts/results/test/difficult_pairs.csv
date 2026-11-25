@@ -1,0 +1,4 @@
+class_i,class_j,name_i,name_j,i_to_j,j_to_i,pair_errors,pair_confusion_rate,svm_recall_i,svm_recall_j,cluster_cross_class_coassignment,cluster_modal_i,cluster_modal_j,cluster_modal_fraction_i,cluster_modal_fraction_j
+3,5,cat,dog,155,186,341,0.1705,0.585,0.64,0.480698,5,5,0.574,0.755
+1,9,automobile,truck,80,83,163,0.0815,0.852,0.799,0.146703,1,4,0.808,0.795
+2,4,bird,deer,78,79,157,0.0785,0.636,0.703,0.412766,0,0,0.554,0.706

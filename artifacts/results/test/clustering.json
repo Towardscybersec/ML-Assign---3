@@ -1,0 +1,8 @@
+{
+  "ARI": 0.3851608433013925,
+  "NMI": 0.49505524693550484,
+  "n_clusters": 8,
+  "nmi_average_method": "arithmetic",
+  "train_samples": 45000,
+  "assignment_before_labels": true
+}
